@@ -9,4 +9,4 @@
 - 💬 Ask me about anything, I am happy to help
 - ⚡️ Fun fact: I have two ginger cats 🐱
 
-[website](https://alisaliso.com) • [email](alisaliso.com@gmail.com) • [codepen](https://codepen.io/alisaliso) • [twitter](https://twitter.com/alisaliso1)
+[website](https://alisaliso.com) • [email](mailto:alisaliso.com@gmail.com) • [codepen](https://codepen.io/alisaliso) • [twitter](https://twitter.com/alisaliso1)
