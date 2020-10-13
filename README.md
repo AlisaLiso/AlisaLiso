@@ -2,7 +2,7 @@
 
 > My name is **Alex** and I’m a **Front-end Engineer** from Russia.
 
-- 🚀 I'm a proactive about problem solving
+- 🚀 I'm a proactive problem solver
 - ❤️ I love coding gifs to CSS/Canvas
 - 👓 I believe that learning something new every day keeps you from stagnation
 - 📚 I'm a fan of Harry Potter and the Methods of Rationality
