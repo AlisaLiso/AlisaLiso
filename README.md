@@ -1,6 +1,6 @@
 # 🙃 Hiya! My name is Sasha, a Frontend Engineer from Russia
 
-$and, also...$
+and, also...
 
 - 👷‍♀️ work at [Astroshock](http://astroshock.ru)
 - ⚡️ mother of two cats 🐈🐈
