@@ -1,4 +1,4 @@
-# 🙃 Hiya! My name is Sasha, a Frontend Engineer from Russia
+# 🙃 Hiya! My name is Sasha, a Frontend Engineer
 
 and, also...
 
