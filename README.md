@@ -2,7 +2,7 @@
 
 and, also...
 
-- 👷‍♀️ work at [Astroshock](http://astroshock.ru)
+- 👷‍♀️ work at [DFDS](https://www.dfds.com/en)
 - ⚡️ mother of two cats 🐈🐈
 - 👑 the Third of Her Name
 - 🕸 the [Undefined](https://alisaliso.com)
